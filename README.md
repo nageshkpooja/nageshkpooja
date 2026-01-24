@@ -4,7 +4,7 @@ I’m Pooja Krishnappa Nagesh, a data & analytics engineer based in the USA.
 
 I specialize in turning raw, inconsistent data into reliable, analytics-ready datasets** that support business reporting, decision-making, and experimentation.
 
-If data is slow, hard to trust, or poorly defined, I focus on advanced SQL analysis, data modeling, validation, and performance optimization** to make it accurate and actionable.
+If data is slow, hard to trust, or poorly defined, I focus on advanced SQL analysis, data modeling, validation, and performance optimization to make it accurate and actionable.
 
 My work focuses on ETL pipelines, data quality validation, KPI reporting, and performance optimization, supporting analytics and experimentation across platforms like Snowflake, Redshift, Spark, Tableau, and Power BI.
 
