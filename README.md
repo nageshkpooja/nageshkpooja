@@ -2,7 +2,7 @@ Hey there! 👋
 
 I’m Pooja Krishnappa Nagesh, a data & analytics engineer based in the USA.
 
-I specialize in turning raw, inconsistent data into reliable, analytics-ready datasets** that support business reporting, decision-making, and experimentation.
+I specialize in turning raw, inconsistent data into reliable, analytics-ready datasets that support business reporting, decision-making, and experimentation.
 
 If data is slow, hard to trust, or poorly defined, I focus on advanced SQL analysis, data modeling, validation, and performance optimization to make it accurate and actionable.
 
